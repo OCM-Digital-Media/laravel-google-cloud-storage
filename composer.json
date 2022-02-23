@@ -17,7 +17,7 @@
     ],
     "repositories":[
         {
-          "type": "git",
+          "type": "vcs",
           "url": "https://github.com/OCM-Digital-Media/flysystem-google-cloud-storage.git"
         }
     ],
