@@ -15,6 +15,13 @@
             "role": "Developer"
         }
     ],
+    "repositories":[
+        {
+          "name": "league/flysystem-google-cloud-storage",
+          "type": "git",
+          "url": "https://github.com/OCM-Digital-Media/flysystem-google-cloud-storage.git"
+        }
+    ],
     "require": {
         "php": "^8.0",
         "illuminate/contracts": "^9.0",
